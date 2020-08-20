@@ -1,8 +1,8 @@
 # COVID-19 Tracker
 
-# Realtime Chat Application
 
-COVID-19 Tracker is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
+
+COVID-19 Tracker is an application that displays live statistics on the current number of confirmed cases,number of recoveries and the number of fatalities.
 
 <a href="https://tracking.gitads.io/?repo=project_corona_tracker">
  <img src="https://images.gitads.io/project_corona_tracker" alt="GitAds"/> 
@@ -15,9 +15,9 @@ COVID-19 Tracker is being sponsored by the following tool; please help to suppor
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+The  COVID-19 Tracker is built using  React, Charts.JS and Material UI.
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+This project heavily employs  React's workflow and the use of hooks.
 
 API used: https://covid19.mathdro.id/api
 
