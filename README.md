@@ -12,8 +12,7 @@ COVID-19 Tracker is an application that displays live statistics on the current 
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Introduction. 
 
 The  COVID-19 Tracker is built using  React, Charts.JS and Material UI.
 
